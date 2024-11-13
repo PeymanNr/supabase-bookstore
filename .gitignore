@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+venv/
+.venv/
+
+# Build outputs
+dist/
+build/
+out/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Cache
+.cache/
+
+# Private keys
+*.pem
+*.key
+id_rsa
