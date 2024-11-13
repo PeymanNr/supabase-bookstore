@@ -33,7 +33,7 @@ Ensure to set the following environment variables in a `.env` file or your hosti
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/PeymanNr/supabase-bookstore.git
    cd your-repo
    ```
 
